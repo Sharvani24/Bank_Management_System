@@ -24,6 +24,8 @@ BankManagementSystem/ ├── Account.java ├── Bank.java ├── Main.
 3. Compile all .java files.
 4. Run Main.java.
 5. Use the command-line interface to interact with the system.
+# Explanation of each module:
+1. Login Screen - It consist of Card number and pin. It has three buttons as sign in, sign up and clear(to clear the entries done in card number and pin).
 # 📧 Contact:
 For any queries or feedback, feel free to contact me at [your-email@example.com].
 
